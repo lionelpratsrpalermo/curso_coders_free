@@ -1,0 +1,12 @@
+TUTORIAL desarrolloweb.com 
+(
+user: lionel.prats.c@gmail.com
+pass: desarrolloweb-2022
+)
+https://desarrolloweb.com/articulos/generar-pdf-laravel-dompdf.html
+
+EXPRESIONES REGULARES - coders free (Dejé en 43'40")
+https://www.youtube.com/watch?v=xGaXH7spCyA
+https://youtu.be/xGaXH7spCyA
+PLAYLIST COMPLETO PHP Y MYSQL DESDE CERO
+https://www.youtube.com/playlist?list=PLZ2ovOgdI-kUSqWuyoGJMZL6xldXw6hIg
